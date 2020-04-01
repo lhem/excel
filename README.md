@@ -1,8 +1,8 @@
 # excel
 
-Sample files demoing undocumented features in cell formulas and charts including
+Contents include
 
-Format: 	  Number formats with continued fractions
+Formats: 	  Number formats with continued fractions
 
 Values: 	  IEEE special numbers and charting nulls
 
@@ -14,7 +14,7 @@ AddIns: 	  Global macro workbook
 
 Names: 		  Named formulas in charts and udfs
 
-Trendline: 	Fitting higher degree polynomials
+Trendline: 	Polynomials of higher degree
 
 Smoothing: 	Catmull-Rom spline
 
