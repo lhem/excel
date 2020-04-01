@@ -8,7 +8,7 @@ Values: 	  IEEE special numbers and charting nulls
 
 Operators: 	Unary plus and function call operators
 
-Functions: 	Worksheet functions and data types
+Functions: 	Worksheet function data types
 
 AddIns: 	  Global macro workbook
 
@@ -16,6 +16,6 @@ Names: 		  Named formulas in charts and udfs
 
 Trendline: 	Fitting higher degree polynomials
 
-Smoothing: 	Modified Catmull-Rom Spline
+Smoothing: 	Catmull-Rom spline
 
-Hyperlinks: Executing code
+Hyperlinks: Running code
