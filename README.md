@@ -1,6 +1,6 @@
 # excel
 
-Contents include
+Contents
 
 Formats: 	  Number formats with continued fractions
 
