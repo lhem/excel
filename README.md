@@ -2,7 +2,7 @@
 
 Sample files demoing undocumented features in cell formulas and charts including
 
-Display: 	  Fraction formatting via continued fractions
+Format: 	  Number formats with continued fractions
 
 Values: 	  IEEE special numbers and charting nulls
 
