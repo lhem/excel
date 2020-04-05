@@ -1,4 +1,4 @@
-Sample files and <a href="https://github.com/lhem/excel.wiki.git" title=" ">wiki</a>
+Sample files and <a href="https://github.com/lhem/excel/wiki" title=" ">wiki</a>
 
 | File | Description |
 | --- | --- |
