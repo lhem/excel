@@ -1,21 +1,14 @@
-# excel
+Sample files and <a href="https://github.com/lhem/excel.wiki.git" title=" ">wiki</a>
 
-Contents
-
-Formats: 	  Number formats with continued fractions
-
-Values: 	  IEEE special numbers and charting nulls
-
-Operators: 	Unary plus and function call operators
-
-Functions: 	Worksheet function data types
-
-AddIns: 	  Global macro workbook
-
-Names: 		  Named formulas in charts and udfs
-
-Trendline: 	Polynomials of higher degree
-
-Smoothing: 	Catmull-Rom spline
-
-Hyperlinks: Running code
+| File | Description |
+| --- | --- |
+| SpecialNum.xlsb | Special numbers and null values |
+| Trend-Poly.xlsx | Polynomial trends of higher degree |
+| Operator.xlsm | Unary plus and function call operators |
+| Smoothline.xlsx | Catmull-Rom Spline
+| Frac.xlsx | Formatting with continued fractions|
+| FuncLet.xlsb | UDFs from formulas |
+| FuncTypes.xlsx | 	Worksheet function data types |
+| GlobalAddin.xlam | Addin using hidden namespace |
+| Mandelbrot.xlsx | Mandelbrot set with conditional formats |
+| Hyperlink.xlsm | Running code from hyperlink formulas |
