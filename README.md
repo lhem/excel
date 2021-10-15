@@ -6,6 +6,7 @@ Sample files and <a href="https://github.com/lhem/excel/wiki" title=" ">wiki</a>
 | FuncLet.xlsb | User defined function using LET |
 | FuncTypes.xlsx | Worksheet function data types |
 | FuncList.xlsx | Worksheet function list by category |
+| LetNames.xlsx | Worksheet functions for defining names |
 | Hypercube.xlsx | chart animation with named formulas |
 | Mandelbrot.xlsx | Mandelbrot set with conditional formats |
 | Smoothline.xlsx | Catmull-Rom Spline
